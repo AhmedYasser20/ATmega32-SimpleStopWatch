@@ -14,6 +14,8 @@ This GitHub repository contains the code and documentation for a Stop Watch syst
 8. **Reset**: An External Interrupt (INT0) with a falling edge is configured. A push button with an internal pull-up resistor can be used to reset the Stop Watch time.
 9. **Pause**: External Interrupt (INT1) is configured with a rising edge. A push button with an external pull-down resistor can be used to pause the Stop Watch time.
 10. **Resume**: External Interrupt (INT2) is configured with a falling edge. A push button with an internal pull-up resistor can be used to resume the Stop Watch time.
+11. **Stop LED Indicators**: Added LED indicators to visually indicate the state of the stopwatch (running, paused, or stopped).
+12. **Count Up and Count Down Enables**: Implemented count-up and count-down functionality to allow the user to choose the stopwatch mode.
 
 ## Usage
 
@@ -35,5 +37,9 @@ Follow these steps to use the Stop Watch system:
 
 6. **Pause/Resume**: To pause the Stop Watch, press the button connected to the INT1 pin. To resume, press the button connected to the INT2 pin.
 
+7. **Choose Stopwatch Mode**: Use the count-up and count-down enables to select the desired stopwatch mode.
+
 ## Screenshots
-![WhatsApp Image 2023-09-13 at 23 46 06](https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/ad5cf172-bb53-4434-9ff6-71484c9298b6)
+![image](https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/f46ff8f2-b7fb-40ba-b273-89c7c6a287cc)
+
+
