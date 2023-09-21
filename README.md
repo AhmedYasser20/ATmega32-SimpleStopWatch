@@ -40,6 +40,7 @@ Follow these steps to use the Stop Watch system:
 7. **Choose Stopwatch Mode**: Use the count-up and count-down enables to select the desired stopwatch mode.
 
 ## Screenshots
-![image](https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/f46ff8f2-b7fb-40ba-b273-89c7c6a287cc)
+![image](https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/700cef15-298b-4691-9d37-860c2732dd53)
+
 
 
