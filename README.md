@@ -42,5 +42,9 @@ Follow these steps to use the Stop Watch system:
 ## Screenshots
 ![image](https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/700cef15-298b-4691-9d37-860c2732dd53)
 
+## DEMO Video
+https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/3eda3d7a-eb14-4ce4-8c1b-a96e4fc96799
+
+
 
 
