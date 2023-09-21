@@ -35,10 +35,12 @@ To simulate an ELF file in Proteus, follow these steps:
 10. **Choose Stopwatch Mode**: Use the count-up and count-down enables in the Proteus simulation to select the desired stopwatch mode for testing and evaluation.
 
 ## Screenshots
-![image](https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/700cef15-298b-4691-9d37-860c2732dd53)
+![image](https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/5c15cac0-53b5-4b1c-81ce-9290b6c98836)
+
 
 ## DEMO Video
-https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/3eda3d7a-eb14-4ce4-8c1b-a96e4fc96799
+https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/b5b042ba-4bcb-4bb3-9a90-9529859f5303
+
 
 
 
