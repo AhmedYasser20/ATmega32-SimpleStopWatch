@@ -19,25 +19,20 @@ This GitHub repository contains the code and documentation for a Stop Watch syst
 
 ## Usage
 
-Follow these steps to use the Stop Watch system:
-
+To simulate an ELF file in Proteus, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine:
-
     ```bash
     git clone https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch.git
     ```
-
-2. **Upload Code**: Upload the provided code to your ATmega32 microcontroller using your preferred AVR programming software (e.g., Atmel Studio).
-
-3. **Hardware Connections**: Ensure that you have made the necessary hardware connections as specified in the project documentation.
-
-4. **Power On**: Connect power to the ATmega32. The Stop Watch will start counting automatically.
-
-5. **Reset**: To reset the Stop Watch, press the button connected to the INT0 pin.
-
-6. **Pause/Resume**: To pause the Stop Watch, press the button connected to the INT1 pin. To resume, press the button connected to the INT2 pin.
-
-7. **Choose Stopwatch Mode**: Use the count-up and count-down enables to select the desired stopwatch mode.
+2. **Compile ELF File**: Compile your code and generate an ELF file using your preferred AVR programming software (e.g., Atmel Studio).
+3. **Create Proteus Project**: Open Proteus and create a new project for your simulation.
+4. **Add Microcontroller**: Add the ATmega32 microcontroller to your Proteus project.
+5. **Upload ELF File**: In Proteus, navigate to the microcontroller properties and upload the generated ELF file to the microcontroller. This will load your code into the virtual ATmega32.
+6. **Hardware Connections**: Ensure that you have made the necessary hardware connections as specified in the project documentation, both in Proteus and in your real-world setup if applicable.
+7. **Power On**: In the Proteus simulation, connect power to the virtual ATmega32. The Stop Watch will start counting automatically in the virtual environment.
+8. **Reset**: To reset the Stop Watch in the simulation, trigger the button connected to the INT0 pin in Proteus.
+9. **Pause/Resume**: To pause the Stop Watch in the simulation, trigger the button connected to the INT1 pin in Proteus. To resume, trigger the button connected to the INT2 pin.
+10. **Choose Stopwatch Mode**: Use the count-up and count-down enables in the Proteus simulation to select the desired stopwatch mode for testing and evaluation.
 
 ## Screenshots
 ![image](https://github.com/AhmedYasser20/ATmega32-SimpleStopWatch/assets/93765400/700cef15-298b-4691-9d37-860c2732dd53)
